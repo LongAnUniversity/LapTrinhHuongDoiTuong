@@ -18,7 +18,7 @@ Viết chương trình QUẢN LÝ KÝ TÚC XÁ, với các thông tin sau:
 * PHÒNG: Mã phòng, tên phòng, đơn giá, dung lượng
 * SINH VIÊN: Mã sinh viên, họ tên, ngày vào, phòng
 * HÓA ĐƠN: mã hóa đơn, phòng, ngày lập
-***
+
 Viết chương trình:
 
 **1. Quản lý phòng**
